@@ -22,12 +22,7 @@ A disciplina foca nos pilares fundamentais da POO e na aplicação prática util
 
 ---
 
-## 📂 Estrutura do Repositório
 
-O repositório está organizado por módulos:
-
-* `/exercicios`: Listas de exercícios de lógica e fundamentos.
-* `/projetos`: Projetos integradores ou atividades mais complexas.
 
 ---
 
